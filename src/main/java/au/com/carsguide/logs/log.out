@@ -1,0 +1,54 @@
+2022-05-26 22:05:808 INFO  ManageDriver :32 - launching chrome browser
+2022-05-26 22:05:81 INFO  HomePage :35 - verifying homepage url.
+2022-05-26 22:05:319 INFO  HomePage :44 - hover mouse to menu bar.
+2022-05-26 22:05:773 INFO  HomePage :56 - hover to submenu and click on element.
+2022-05-26 22:05:787 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2022-05-26 22:05:971 INFO  SearchCarsPage :53 - select make: 'BMW'
+2022-05-26 22:05:248 INFO  SearchCarsPage :58 - select model: '118d'
+2022-05-26 22:05:340 INFO  SearchCarsPage :63 - select location: 'NT - North'
+2022-05-26 22:05:439 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2022-05-26 22:05:515 INFO  ManageDriver :32 - launching chrome browser
+2022-05-26 22:05:338 INFO  HomePage :35 - verifying homepage url.
+2022-05-26 22:05:549 INFO  HomePage :44 - hover mouse to menu bar.
+2022-05-26 22:05:469 INFO  HomePage :56 - hover to submenu and click on element.
+2022-05-26 22:05:631 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2022-05-26 22:05:781 INFO  SearchCarsPage :53 - select make: 'Audi'
+2022-05-26 22:05:61 INFO  SearchCarsPage :58 - select model: 'A5'
+2022-05-26 22:05:142 INFO  SearchCarsPage :63 - select location: 'WA - Perth'
+2022-05-26 22:05:214 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2022-05-26 22:05:31 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2022-05-26 22:05:130 INFO  SearchCarsResultPage :46 - actual result: '16 audi a5s for sale under $50,000 in perth, wa'
+2022-05-26 22:05:132 INFO  SearchCarsResultPage :48 - verifying search results of make from data set: 'Audi'
+2022-05-26 22:05:967 INFO  ManageDriver :32 - launching chrome browser
+2022-05-26 22:05:202 INFO  HomePage :35 - verifying homepage url.
+2022-05-26 22:05:386 INFO  HomePage :44 - hover mouse to menu bar.
+2022-05-26 22:05:704 INFO  HomePage :56 - hover to submenu and click on element.
+2022-05-26 22:05:861 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2022-05-26 22:05:981 INFO  SearchCarsPage :53 - select make: 'Hyundai'
+2022-05-26 22:05:139 INFO  SearchCarsPage :58 - select model: 'Imax'
+2022-05-26 22:05:231 INFO  SearchCarsPage :63 - select location: 'NSW - Sydney'
+2022-05-26 22:05:315 INFO  SearchCarsPage :68 - select priceTo: '40000'
+2022-05-26 22:05:523 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2022-05-26 22:05:738 INFO  SearchCarsResultPage :46 - actual result: '12 hyundai imaxs for sale under $40,000 in sydney, nsw'
+2022-05-26 22:05:738 INFO  SearchCarsResultPage :48 - verifying search results of make from data set: 'Hyundai'
+2022-05-26 22:05:561 INFO  ManageDriver :32 - launching chrome browser
+2022-05-26 22:05:649 INFO  HomePage :35 - verifying homepage url.
+2022-05-26 22:05:806 INFO  HomePage :44 - hover mouse to menu bar.
+2022-05-26 22:05:834 INFO  HomePage :56 - hover to submenu and click on element.
+2022-05-26 22:05:965 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2022-05-26 22:05:77 INFO  SearchCarsPage :53 - select make: 'Mitsubishi'
+2022-05-26 22:05:235 INFO  SearchCarsPage :58 - select model: 'Outlander'
+2022-05-26 22:05:309 INFO  SearchCarsPage :63 - select location: 'SA - North'
+2022-05-26 22:05:378 INFO  SearchCarsPage :68 - select priceTo: '60000'
+2022-05-26 22:05:158 INFO  ManageDriver :32 - launching chrome browser
+2022-05-26 22:05:166 INFO  HomePage :35 - verifying homepage url.
+2022-05-26 22:05:321 INFO  HomePage :44 - hover mouse to menu bar.
+2022-05-26 22:05:260 INFO  HomePage :56 - hover to submenu and click on element.
+2022-05-26 22:05:330 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2022-05-26 22:05:434 INFO  SearchCarsPage :53 - select make: 'Honda'
+2022-05-26 22:05:632 INFO  SearchCarsPage :58 - select model: 'Odyssey'
+2022-05-26 22:05:703 INFO  SearchCarsPage :63 - select location: 'VIC - All'
+2022-05-26 22:05:776 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2022-05-26 22:05:875 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2022-05-26 22:05:168 INFO  SearchCarsResultPage :46 - actual result: '26 honda odysseys for sale under $50,000 in vic'
+2022-05-26 22:05:169 INFO  SearchCarsResultPage :48 - verifying search results of make from data set: 'Honda'
